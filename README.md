@@ -59,6 +59,8 @@ All reverse engineering of the Creative Katana USB protocol was done by **Rasmus
 
 This project is a thin wrapper around the `v2x` library — it adds Windows-friendly auto-kill of Creative App, toggle logic, and a minimal CLI focused purely on output switching.
 
+The wrapper code was written by **Hermes Agent** (powered by **DeepSeek V4 Pro**) through iterative conversation with the repo owner.
+
 The original Katana V1 USB HID protocol was documented by [therion23/KatanaHacking](https://github.com/therion23/KatanaHacking).
 
 ## License
